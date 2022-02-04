@@ -10,4 +10,4 @@
 - Dice. Spring Boot | Spring Data | JPA | REST API | Gradle | H2
 - Contracts. JUnit | Mockito | Gradle | .json file
 - JWT. Spring Boot | Spring Security | Maven | MySQL - Workbench
-- e-commerce. Spring Boot | Spring Data | JPA | REST API | Maven | MySQL - Workbench | work in progress
+- e-commerce. Spring Boot | Spring Data | JPA | REST API | Maven | MySQL - Workbench
