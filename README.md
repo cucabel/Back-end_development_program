@@ -1,4 +1,4 @@
-# Pre-Ironhack-Bootcamp: Java, Srping, MySQL
+# Pre-Ironhack-Bootcamp: Java, Spring, MySQL
 
 - DB-Modelling
 - MySQL-Queries
