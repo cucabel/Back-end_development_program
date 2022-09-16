@@ -1,4 +1,4 @@
-# Pre-Ironhack-Bootcamp: Java, Spring, MySQL
+# Back-end development program: Java, Spring, MySQL
 
 - e-commerce. Spring Boot | Spring Data | JPA | REST API | Maven | MySQL Workbench
 - JWT. Spring Boot | Spring Security | Maven | MySQL Workbench
